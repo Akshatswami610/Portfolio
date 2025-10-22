@@ -6,7 +6,7 @@ A modern, responsive portfolio website showcasing my work as a Python Backend De
 ---
 
 ## 🌐 Live Demo
-🔗 **[Visit the live site](https://blog-website-3wu2.onrender.com)**
+🔗 **[Visit the live site](https://akshatswamipy.vercel.app/)**
 
 ---
 
