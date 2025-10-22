@@ -3,7 +3,7 @@
 import { Resend } from "resend"
 
 // Use the provided API key
-const RESEND_KEY = "re_KMDwDrDq_Gh3WvTwAYMmEQCjJj1woYuBK"
+const RESEND_KEY = "*"
 const resend = new Resend(RESEND_KEY)
 
 export async function sendContactMessage(formData: FormData) {
